@@ -211,3 +211,6 @@ __marimo__/
 
 # text files
 .IDEAS.md
+
+# macOS
+.DS_Store
